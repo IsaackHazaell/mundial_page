@@ -569,3 +569,19 @@ textarea.input100 {
 .btn-hide-contact100:hover {
   opacity: 1;
 }
+
+/*//////////////////////////////////////////////////////////////////
+[ Static background]*/
+
+.static-background {
+  width: 100%;
+  height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#static-1{background-image: url('../images/bg-04.jpg');}
+#static-2{background-image: url('../images/bg-03.jpg');}
+#static-3{background-image: url('../images/bg-05.jpg');}
